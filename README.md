@@ -1,96 +1,80 @@
-# 👋 Hi, I'm Atharv Khare  
+# Atharv Khare
 
-**📧 Email:** [atharvkhare18@gmail.com](mailto:atharvkhare18@gmail.com)  
-**📱 Contact:** +91 8817916681  
-**🌐 LinkedIn:** [Atharv Khare](https://linkedin.com/in/atharv-khare-a10456274/)  
+**Aspiring Data Scientist & Web Developer**
 
----
+I'm a highly motivated and results-oriented individual with a strong foundation in computer science and a passion for leveraging data insights to solve real-world problems. I'm actively seeking opportunities to collaborate on data science and web development projects, contribute to open-source initiatives, and continuously expand my skillset.
 
-## 🌟 About Me  
+**Contact:**
 
-I'm a **Computer Science Engineering student** at LNCTE, Bhopal, with a passion for technology, data, and innovation. Whether it's building intuitive web applications or exploring the realms of data science, I'm constantly learning and growing to bring impactful solutions to life.  
+* Email: atharvkhare18@gmail.com
+* LinkedIn: [linkedin.com/in/atharv-khare-a10456274/](linkedin.com/in/atharv-khare-a10456274/)
 
----
+**Experience**
 
-## 🏗️ Experience  
+| Role | Dates | Organization | Location | Description |
+|---|---|---|---|---|
+| Data Science with Python Trainee | June 2024 - July 2024 | YBI Foundation | Online | Completed comprehensive training in Python for data analysis, visualization, and machine learning. Gained hands-on experience with practical skills. |
+| Web Developer Intern | April 2024 - June 2024 | EISystems Technologies | Bhopal, MP | Assisted in developing and maintaining web applications. Collaborated with developers to implement new features and enhance existing functionalities. |
+| AWS Data Engineering Intern | January 2024 - March 2024 | EduSkills Foundation | Bhopal, MP (Virtual) | Completed AWS Data Engineering course, earning certification. Developed foundational skills in cloud-based data engineering and AWS services. |
 
-### **Data Science with Python Trainee**  
-**YBI Foundation** | Online Training  
-*June 2024 - July 2024*  
-- Completed training in Python for data science applications.  
-- Gained hands-on experience in **data analysis, visualization**, and **machine learning techniques**.  
+**Education**
 
-### **Web Developer Intern**  
-**EISystems Technologies** | Bhopal, MP  
-*April 2024 - June 2024*  
-- Contributed to developing and maintaining web applications.  
-- Collaborated with a team to implement new features and optimize existing functionalities.  
+* LNCTE, Bhopal | BTech in CSE | 2023 - 2027 (Expected)
+    * First-year student
 
-### **AWS Data Engineering Intern**  
-**EduSkills Foundation** | Virtual  
-*January 2024 - March 2024*  
-- Earned AWS Data Engineering certification through comprehensive coursework.  
-- Built foundational knowledge in **cloud-based data engineering** using **AWS services**.  
+**Skills**
 
----
+**Programming Languages:**
 
-## 🎓 Education  
+* Python (Proficient)
+* C++ (Basic)
+* Java (Basic)
 
-### **B.Tech in Computer Science and Engineering**  
-**LNCTE, Bhopal**  
-*2023 - 2027 (Expected)*  
+**Web Technologies:**
 
----
+* Flask
+* Vue.js
+* Chart.js
+* RESTful APIs
+* HTML/CSS
+* JavaScript (Basic)
 
-## 🛠️ Skills  
+**Data Science:**
 
-### **Programming Languages**  
-- Python  
-- C++ (basic)  
-- Java (basic)  
+* Pandas
+* NumPy
+* Matplotlib
+* Seaborn (Basic)
 
-### **Web Technologies**  
-- Flask  
-- Vue.js  
-- Chart.js  
-- RESTful APIs  
-- HTML/CSS  
-- JavaScript (basic)  
+**Database:**
 
-### **Data Science & Analysis**  
-- Pandas, NumPy  
-- Matplotlib, Seaborn (basic)  
+* PostgreSQL (Intermediate)
+* SQLite
+* SQL (Intermediate HackerRank Badge)
 
-### **Databases**  
-- PostgreSQL  
-- SQLite  
-- SQL (Intermediate HackerRank Badge)  
+**Version Control:**
 
-### **Version Control**  
-- Git, GitHub  
+* Git
+* GitHub
 
----
+**Certifications**
 
-## 📜 Certifications  
+* AWS Academy Graduate - AWS Academy Cloud Foundations
+* 'Presenting Data' Certification by Forage
+* Accenture North America - Data Analytics and Visualization Job Simulation
+* Verizon - Cloud Platform Job Simulation
 
-- **AWS Academy Graduate** - AWS Academy Cloud Foundations  
-- **'Presenting Data' Certification** - Forage  
-- **Data Analytics and Visualization Job Simulation** - Accenture North America  
-- **Cloud Platform Job Simulation** - Verizon  
+**Honors & Awards**
 
----
+* Mr. Focused by SPS SN
+* Winner - Group Leader for Cooperative Learning
+* Winner - Creative Writing (Inter School competition)
+* LIC Student of the year (2022)
 
-## 🏆 Honors and Awards  
+**Contributions (Optional)**
 
-- **Mr. Focused** by SPS SN  
-- **Winner** - Group Leader for Cooperative Learning  
-- **Winner** - Creative Writing (Inter School competition)  
-- **LIC Student of the Year (2022)**  
+* Link to any open-source projects you've contributed to.
 
----
+**Let's Connect!**
 
-## 🚀 Let's Connect!  
-I'm always open to collaborating on projects, exploring new technologies, and exchanging ideas. Feel free to reach out!  
-
-✨ *"Code, create, and innovate!"* ✨
-
+I'm eager to connect with other developers and data enthusiasts. Feel free to reach out to me via email or LinkedIn to discuss projects, collaborations, or learning opportunities.
