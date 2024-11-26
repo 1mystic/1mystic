@@ -26,12 +26,6 @@ I'm a passionate Computer Science Engineering student at LNCTE, Bhopal (2023 - 2
 <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-Proficient-blue?style=for-the-badge&logo=vue.js"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML/CSS-Proficient-blue?style=for-the-badge&logo=html5"/></a>  ---
 
-##  Certifications
-
-![AWS Cloud Foundations](https://img.shields.io/badge/AWS%20Cloud%20Foundations-orange?style=flat-square&logo=amazonaws)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-brightgreen?style=flat-square)
-![Accenture Simulation](https://img.shields.io/badge/Accenture%20Simulation-blue?style=flat-square&logo=accenture)
-![Verizon Cloud Simulation](https://img.shields.io/badge/Verizon%20Cloud%20Simulation-purple?style=flat-square&logo=verizon)
 
 ---
 
