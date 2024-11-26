@@ -8,7 +8,7 @@
 
 ## 🌟 About Me
 
-I'm a passionate Computer Science Engineering student at LNCTE, Bhopal (2023 - 2027). I specialize in **web development**, **data science**, and **cloud technologies**. I'm driven by the power of code to turn ideas into reality and constantly strive to enhance my technical skills.
+I'm a CSE undergrad student, majoring in Data Science. I specialize in **web development**, **data science**, and **cloud technologies**. I'm driven by the power of code to turn ideas into reality and constantly strive to enhance my technical skills.
 
 ---
 
