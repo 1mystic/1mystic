@@ -1,47 +1,72 @@
-# Atharv Khare
-**Aspiring Data Scientist & Web Developer**
+# 👋 Hi, I'm Atharv Khare  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/atharv-khare-a10456274/)
-[![Email](https://img.shields.io/badge/Email-atharvkhare18@gmail.com-green?style=flat-square)](mailto:atharvkhare18@gmail.com)
+**📧 Email:** [atharvkhare18@gmail.com](mailto:atharvkhare18@gmail.com)  
+**📱 Contact:** +91 8817916681  
+**🌐 LinkedIn:** [Atharv Khare](https://linkedin.com/in/atharv-khare-a10456274/)  
 
-**Skills**
+---
 
-[![Python](https://img.shields.io/badge/Python-Proficient-blue?style=flat-square&logo=python)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/C++-Basic-blue?style=flat-square&logo=c%2B%2B)](https://www.cplusplus.com/)
-[![Java](https://img.shields.io/badge/Java-Basic-blue?style=flat-square&logo=java)](https://www.java.com/)
-[![Flask](https://img.shields.io/badge/Flask-Proficient-blue?style=flat-square&logo=flask)](https://flask.palletsprojects.com/)
-[![Vue.js](https://img.shields.io/badge/Vue.js-Proficient-blue?style=flat-square&logo=vue.js)](https://vuejs.org/)
-[![Chart.js](https://img.shields.io/badge/Chart.js-Proficient-blue?style=flat-square&logo=chart.js)](https://www.chartjs.org/)
-[![RESTful APIs](https://img.shields.io/badge/RESTful_APIs-Proficient-blue?style=flat-square)](https://restfulapi.net/)
-[![HTML5](https://img.shields.io/badge/HTML5-Proficient-blue?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-Proficient-blue?style=flat-square&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-Basic-blue?style=flat-square&logo=javascript)](https://www.javascript.com/)
-[![Pandas](https://img.shields.io/badge/Pandas-Proficient-blue?style=flat-square&logo=pandas)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-Proficient-blue?style=flat-square&logo=numpy)](https://numpy.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-Proficient-blue?style=flat-square&logo=matplotlib)](https://matplotlib.org/)
-[![Seaborn](https://img.shields.io/badge/Seaborn-Basic-blue?style=flat-square&logo=seaborn)](https://seaborn.pydata.org/)
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Intermediate-blue?style=flat-square&logo=postgresql)](https://www.postgresql.org/)
-[![SQLite](https://img.shields.io/badge/SQLite-Intermediate-blue?style=flat-square&logo=sqlite)](https://sqlite.org/)
-[![SQL](https://img.shields.io/badge/SQL-Intermediate_HackerRank-blue?style=flat-square&logo=sql)](https://www.hackerrank.com/)
-[![Git](https://img.shields.io/badge/Git-Proficient-blue?style=flat-square&logo=git)](https://git-scm.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-Proficient-blue?style=flat-square&logo=github)](https://github.com/)
+## 🌟 About Me  
 
-**Certifications**
+I'm a **Computer Science Engineering student** at LNCTE, Bhopal (2023 - 2027). I specialize in **web development**, **data science**, and **cloud technologies**. I'm passionate about turning ideas into reality through code and am constantly learning to sharpen my technical skills.  
 
-[![AWS Academy Cloud Foundations](https://img.shields.io/badge/AWS_Academy_Cloud_Foundations-Certified-blue?style=flat-square)](https://www.aws.training/)
-[![Presenting Data](https://img.shields.io/badge/Presenting_Data-Certified-blue?style=flat-square)](https://www.forage.com/)
-[![Accenture North America - Data Analytics and Visualization Job Simulation](https://img.shields.io/badge/Accenture_North_America-Data_Analytics_and_Visualization_Job_Simulation-blue?style=flat-square)](https://www.accenture.com/)
-[![Verizon - Cloud Platform Job Simulation](https://img.shields.io/badge/Verizon-Cloud_Platform_Job_Simulation-blue?style=flat-square)](https://www.verizon.com/)
+---
 
-**Experience & Projects**
-* **Data Science with Python Trainee** (YBI Foundation)
-  * [Brief description of key accomplishments]
-* **Web Developer Intern** (EISystems Technologies)
-  * [Brief description of key accomplishments]
-* **AWS Data Engineering Intern** (EduSkills Foundation)
-  * [Brief description of key accomplishments]
-* **Personal Projects**
-  * [List of personal projects with links to repositories]
+## 🛠️ Skills  
 
-**Let's Connect!**
-I'm open to collaborations and learning opportunities. Feel free to reach out!
+![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)  
+![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)  
+![Flask](https://img.shields.io/badge/-Flask-grey?style=flat-square&logo=flask)  
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js)  
+![HTML/CSS](https://img.shields.io/badge/-HTML%20%2F%20CSS-orange?style=flat-square&logo=html5)  
+![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat-square&logo=postgresql)  
+![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git)  
+![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)  
+
+---
+
+## 🏆 Certifications  
+
+![AWS Cloud Foundations](https://img.shields.io/badge/-AWS%20Cloud%20Foundations-orange?style=flat-square&logo=amazonaws)  
+![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-brightgreen?style=flat-square)  
+![Accenture Simulation](https://img.shields.io/badge/-Accenture%20Simulation-blue?style=flat-square&logo=accenture)  
+![Verizon Cloud Simulation](https://img.shields.io/badge/-Verizon%20Cloud%20Simulation-purple?style=flat-square&logo=verizon)  
+
+---
+
+## 💼 Experience  
+
+- **Data Science with Python Trainee** | YBI Foundation (June 2024 - July 2024)  
+  - Learned data analysis, visualization, and machine learning techniques.  
+
+- **Web Developer Intern** | EISystems Technologies (April 2024 - June 2024)  
+  - Worked on feature development and maintenance of web applications.  
+
+- **AWS Data Engineering Intern** | EduSkills Foundation (January 2024 - March 2024)  
+  - Built foundational knowledge of AWS-based data engineering.  
+
+---
+
+## 🏅 Honors & Awards  
+
+- **Mr. Focused** by SPS SN  
+- **Group Leader** for Cooperative Learning  
+- **Creative Writing Winner** (Inter School Competition)  
+- **LIC Student of the Year (2022)**  
+
+---
+
+## 📊 GitHub Stats  
+
+![Atharv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharvkhare&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvkhare&layout=compact&theme=radical)  
+
+---
+
+## 🌐 Let's Connect  
+
+Feel free to connect with me!  
+📧 **[atharvkhare18@gmail.com](mailto:atharvkhare18@gmail.com)** | 🌐 **[LinkedIn](https://linkedin.com/in/atharv-khare-a10456274/)**  
+
+✨ *"Code, create, and innovate!"* ✨
