@@ -1,72 +1,79 @@
-# 👋 Hi, I'm Atharv Khare  
+# 👋 Hi, I'm Atharv Khare!
 
-**📧 Email:** [atharvkhare18@gmail.com](mailto:atharvkhare18@gmail.com)  
-**📱 Contact:** +91 8817916681  
-**🌐 LinkedIn:** [Atharv Khare](https://linkedin.com/in/atharv-khare-a10456274/)  
-
----
-
-## 🌟 About Me  
-
-I'm a **Computer Science Engineering student** at LNCTE, Bhopal (2023 - 2027). I specialize in **web development**, **data science**, and **cloud technologies**. I'm passionate about turning ideas into reality through code and am constantly learning to sharpen my technical skills.  
+**📧 Email:** [atharvkhare18@gmail.com](mailto:atharvkhare18@gmail.com)
+**📱 Contact:** +91 8817916681
+**🌐 LinkedIn:** [Atharv Khare](https://linkedin.com/in/atharv-khare-a10456274/)
 
 ---
 
-## 🛠️ Skills  
+## 🌟 About Me
 
-![Python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B)  
-![Java](https://img.shields.io/badge/-Java-orange?style=flat-square&logo=java)  
-![Flask](https://img.shields.io/badge/-Flask-grey?style=flat-square&logo=flask)  
-![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js)  
-![HTML/CSS](https://img.shields.io/badge/-HTML%20%2F%20CSS-orange?style=flat-square&logo=html5)  
-![SQL](https://img.shields.io/badge/-SQL-lightgrey?style=flat-square&logo=postgresql)  
-![Git](https://img.shields.io/badge/-Git-red?style=flat-square&logo=git)  
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)  
+I'm a passionate Computer Science Engineering student at LNCTE, Bhopal (2023 - 2027). I specialize in **web development**, **data science**, and **cloud technologies**. I'm driven by the power of code to turn ideas into reality and constantly strive to enhance my technical skills.
 
 ---
 
-## 🏆 Certifications  
+## 🛠️ Skills
 
-![AWS Cloud Foundations](https://img.shields.io/badge/-AWS%20Cloud%20Foundations-orange?style=flat-square&logo=amazonaws)  
-![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-brightgreen?style=flat-square)  
-![Accenture Simulation](https://img.shields.io/badge/-Accenture%20Simulation-blue?style=flat-square&logo=accenture)  
-![Verizon Cloud Simulation](https://img.shields.io/badge/-Verizon%20Cloud%20Simulation-purple?style=flat-square&logo=verizon)  
+### Programming Languages
 
----
+<a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-Proficient-blue?style=for-the-badge&logo=python"/></a>
+<a href="https://www.cplusplus.com/"><img src="https://img.shields.io/badge/C++-Beginner-blue?style=for-the-badge&logo=c%2B%2B"/></a>
+<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-Beginner-blue?style=for-the-badge&logo=java"/></a>
 
-## 💼 Experience  
+### Web Development
 
-- **Data Science with Python Trainee** | YBI Foundation (June 2024 - July 2024)  
-  - Learned data analysis, visualization, and machine learning techniques.  
+<a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-Proficient-blue?style=for-the-badge&logo=flask"/></a>
+<a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-Proficient-blue?style=for-the-badge&logo=vue.js"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML/CSS-Proficient-blue?style=for-the-badge&logo=html5"/></a>  ---
 
-- **Web Developer Intern** | EISystems Technologies (April 2024 - June 2024)  
-  - Worked on feature development and maintenance of web applications.  
+##  Certifications
 
-- **AWS Data Engineering Intern** | EduSkills Foundation (January 2024 - March 2024)  
-  - Built foundational knowledge of AWS-based data engineering.  
-
----
-
-## 🏅 Honors & Awards  
-
-- **Mr. Focused** by SPS SN  
-- **Group Leader** for Cooperative Learning  
-- **Creative Writing Winner** (Inter School Competition)  
-- **LIC Student of the Year (2022)**  
+![AWS Cloud Foundations](https://img.shields.io/badge/AWS%20Cloud%20Foundations-orange?style=flat-square&logo=amazonaws)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-brightgreen?style=flat-square)
+![Accenture Simulation](https://img.shields.io/badge/Accenture%20Simulation-blue?style=flat-square&logo=accenture)
+![Verizon Cloud Simulation](https://img.shields.io/badge/Verizon%20Cloud%20Simulation-purple?style=flat-square&logo=verizon)
 
 ---
 
-## 📊 GitHub Stats  
+## 🏆 Certifications
 
-![Atharv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharvkhare&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvkhare&layout=compact&theme=radical)  
+![AWS Cloud Foundations](https://img.shields.io/badge/AWS%20Cloud%20Foundations-orange?style=flat-square&logo=amazonaws)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-brightgreen?style=flat-square)
+![Accenture Simulation](https://img.shields.io/badge/Accenture%20Simulation-blue?style=flat-square&logo=accenture)
+![Verizon Cloud Simulation](https://img.shields.io/badge/Verizon%20Cloud%20Simulation-purple?style=flat-square&logo=verizon)
 
 ---
 
-## 🌐 Let's Connect  
+## 💼 Experience
 
-Feel free to connect with me!  
-📧 **[atharvkhare18@gmail.com](mailto:atharvkhare18@gmail.com)** | 🌐 **[LinkedIn](https://linkedin.com/in/atharv-khare-a10456274/)**  
+| Role | Dates | Organization | Location | Description |
+|---|---|---|---|---|
+| Data Science with Python Trainee | June 2024 - July 2024 | YBI Foundation | Online | Gained practical skills in data analysis, visualization, and machine learning. |
+| Web Developer Intern | April 2024 - June 2024 | EISystems Technologies | Bhopal, MP | Assisted in developing and maintaining web applications. |
+| AWS Data Engineering Intern | January 2024 - March 2024 | EduSkills Foundation | Bhopal, MP (Virtual) | Built foundational knowledge of AWS-based data engineering. |
+
+---
+
+## 🏅 Honors & Awards
+
+* Mr. Focused by SPS SN
+* Group Leader for Cooperative Learning
+* Creative Writing Winner (Inter School Competition)
+* LIC Student of the Year (2022)
+
+---
+
+## 📊 GitHub Stats
+
+![Atharv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharvkhare&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvkhare&layout=compact&theme=radical)
+
+---
+
+## 🌐 Let's Connect
+
+Feel free to reach out and connect!
+
+ **[atharvkhare18@gmail.com](mailto:atharvkhare18@gmail.com)** |  **[LinkedIn](https://linkedin.com/in/atharv-khare-a10456274/)**
 
 ✨ *"Code, create, and innovate!"* ✨
