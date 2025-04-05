@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Atharv Khare!
 
+**PORTFOLIO** [Atharv's Portfolio Site ](https://atharvk4u.vercel.app/)
 **📧 Email:** [atharvkhare18@gmail.com](mailto:atharvkhare18@gmail.com)
 **📱 Contact:** +91 8817916681
 **🌐 LinkedIn:** [Atharv Khare](https://linkedin.com/in/atharv-khare-a10456274/)
@@ -57,12 +58,7 @@ I'm a CSE undergrad student, majoring in Data Science. I specialize in **web dev
 
 ---
 
-## 📊 GitHub Stats
 
-![Atharv's GitHub Stats](https://github-readme-stats.vercel.app/api?username=atharvkhare&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvkhare&layout=compact&theme=radical)
-
----
 
 ## 🌐 Let's Connect
 
