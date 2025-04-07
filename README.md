@@ -66,4 +66,4 @@ Feel free to reach out and connect!
 
  **[atharvkhare18@gmail.com](mailto:atharvkhare18@gmail.com)** |  **[LinkedIn](https://linkedin.com/in/atharv-khare-a10456274/)**
 
-✨ *"Code, create, and innovate!"* ✨
+✨ *"Find a reason that wakes u tomorrow"* ✨
