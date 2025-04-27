@@ -16,10 +16,12 @@ I'm a CSE undergrad student, majoring in Data Science. I specialize in **web dev
 ## 🛠️ Skills
 
 ### Programming Languages
-
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-Proficient-blue?style=for-the-badge&logo=python"/></a>
+<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-Intermediate-blue?style=for-the-badge&logo=java"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-Intermediate-blue?style=for-the-badge&logo=javascript"/></a>
 <a href="https://www.cplusplus.com/"><img src="https://img.shields.io/badge/C++-Beginner-blue?style=for-the-badge&logo=c%2B%2B"/></a>
-<a href="https://www.java.com/"><img src="https://img.shields.io/badge/Java-Beginner-blue?style=for-the-badge&logo=java"/></a>
+
+
 
 ### Web Development
 
