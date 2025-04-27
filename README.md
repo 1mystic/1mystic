@@ -57,6 +57,13 @@ I'm a CSE undergrad student, majoring in Data Science. I specialize in **web dev
 * LIC Student of the Year (2022)
 
 ---
+## 📊 GitHub Stats
+
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=1mystic&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1mystic&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1mystic&theme=radical)
 
 
 
