@@ -27,7 +27,7 @@ I'm a CSE undergrad student, majoring in Data Science. I specialize in **web dev
 
 <a href="https://flask.palletsprojects.com/"><img src="https://img.shields.io/badge/Flask-Proficient-blue?style=for-the-badge&logo=flask"/></a>
 <a href="https://vuejs.org/"><img src="https://img.shields.io/badge/Vue.js-Proficient-blue?style=for-the-badge&logo=vue.js"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML/CSS-Proficient-blue?style=for-the-badge&logo=html5"/></a>  ---
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML/CSS-Proficient-blue?style=for-the-badge&logo=html5"/></a>  
 
 
 ---
@@ -61,11 +61,15 @@ I'm a CSE undergrad student, majoring in Data Science. I specialize in **web dev
 ---
 ## 📊 GitHub Stats
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=1mystic&show_icons=true&theme=radical)
+<div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1mystic&layout=compact&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" height="200px"/>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1mystic&theme=radical)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Languages" height="200px"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" height="200px"/>
+
+</div>
 
 
 
