@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Atharv Khare!
 
-**PORTFOLIO** [Atharv's Portfolio Site ](https://atharvk4u.vercel.app/)
+**PORTFOLIO** [Visit](https://atharvk4u.vercel.app/)
 **📧 Email:** [atharvkhare18@gmail.com](mailto:atharvkhare18@gmail.com)
 **📱 Contact:** +91 8817916681
 **🌐 LinkedIn:** [Atharv Khare](https://linkedin.com/in/atharv-khare-a10456274/)
