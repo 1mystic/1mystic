@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Atharv Khare!
 
-**PORTFOLIO:** [Visit Here↗](https://atharvk4u.vercel.app/)
+**PORTFOLIO:** [Visit Here↗](www.atharvk.me)
 
 **📧 Email:** [atharvkhare18@gmail.com](mailto:atharvkhare18@gmail.com)
 
