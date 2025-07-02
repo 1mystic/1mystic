@@ -6,7 +6,7 @@
 
 **📱 Contact:** +91 8817916681
 
-**🌐 LinkedIn:** [Atharv Khare](https://linkedin.com/in/atharv-khare-a10456274/)
+**🌐 LinkedIn:** [Atharv Khare](https://linkedin.com/in/atharvkhare)
 
 ---
 
@@ -80,6 +80,6 @@ I'm a CSE undergrad student, majoring in Data Science. I specialize in **web dev
 
 Feel free to reach out and connect!
 
- **[atharvkhare18@gmail.com](mailto:atharvkhare18@gmail.com)** |  **[LinkedIn](https://linkedin.com/in/atharv-khare-a10456274/)**
+ **[atharvkhare18@gmail.com](mailto:atharvkhare18@gmail.com)** |  **[LinkedIn](https://linkedin.com/in/atharvkhare)**
 
 ✨ *"Find a reason that wakes u tomorrow"* ✨
