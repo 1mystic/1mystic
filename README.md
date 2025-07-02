@@ -4,8 +4,6 @@
 
 **📧 Email:** [atharvkhare18@gmail.com](mailto:atharvkhare18@gmail.com)
 
-**📱 Contact:** +91 8817916681
-
 **🌐 LinkedIn:** [Atharv Khare](https://linkedin.com/in/atharvkhare)
 
 ---
