@@ -1,20 +1,16 @@
 # 👋 Hi, I'm Atharv Khare!
 
-**PORTFOLIO:** [Visit Here↗](www.atharvk.me)
-
-**📧 Email:** [atharvkhare18@gmail.com](mailto:atharvkhare18@gmail.com)
-
-**🌐 LinkedIn:** [Atharv Khare](https://linkedin.com/in/atharvkhare)
+**PORTFOLIO:** [Visit Here↗](www.atharvk.me) | **Email:** [atharvkhare18@gmail.com](mailto:atharvkhare18@gmail.com) | **LinkedIn:** [Atharv Khare](https://linkedin.com/in/atharvkhare)
 
 ---
 
-## 🌟 About Me
+## -> About Me
 
-I'm a CSE undergrad student, majoring in Data Science. I specialize in **web development**, **data science**, and **cloud technologies**. I'm driven by the power of code to turn ideas into reality and constantly strive to enhance my technical skills.
+I'm a CSE undergrad student, majoring in Data Science. I specialize in **web development**, **data science**, and **cloud technologies**. I'm driven to turn ideas into reality and constantly strive to enhance my technical skills.
 
 ---
 
-## 🛠️ Skills
+## -> Skills
 
 ### Programming Languages
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-Proficient-blue?style=for-the-badge&logo=python"/></a>
@@ -33,7 +29,7 @@ I'm a CSE undergrad student, majoring in Data Science. I specialize in **web dev
 
 ---
 
-## 🏆 Certifications
+## -> Certifications
 
 ![AWS Cloud Foundations](https://img.shields.io/badge/AWS%20Cloud%20Foundations-orange?style=flat-square&logo=amazonaws)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-brightgreen?style=flat-square)
@@ -42,7 +38,7 @@ I'm a CSE undergrad student, majoring in Data Science. I specialize in **web dev
 
 ---
 
-## 💼 Experience
+## -> Experience
 
 | Role | Dates | Organization | Location | Description |
 |---|---|---|---|---|
@@ -52,7 +48,7 @@ I'm a CSE undergrad student, majoring in Data Science. I specialize in **web dev
 
 ---
 
-## 🏅 Honors & Awards
+## -> Honors & Awards
 
 * Mr. Focused by SPS SN
 * Group Leader for Cooperative Learning
@@ -74,7 +70,7 @@ I'm a CSE undergrad student, majoring in Data Science. I specialize in **web dev
 
 
 
-## 🌐 Let's Connect
+## Let's Connect
 
 Feel free to reach out and connect!
 
