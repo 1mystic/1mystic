@@ -26,7 +26,7 @@ class DataScientist:
 
 <div align="center">
 
-### 365 Contributions in the Last Year
+### 300+ Contributions in the Last Year
 ```
 ████████████████████████████████████████████████████████████████████████████████████████████████████
 ```
