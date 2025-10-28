@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=60&duration=2000&pause=1000&color=D5F7C7&repeat=false&width=1135&height=100&lines=Welcome+to+my+profile" alt="Typing SVG" />
 
-<img src="banner1.gif" > 
+<img src="banner2.gif" > 
 
 <p align="left">
   <img src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" width="400" alt="coding">
