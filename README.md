@@ -1,8 +1,8 @@
-<img src="banner1.gif" > 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Atharv+and+Welcome+to+my+Profile" alt="animated type out" width="100%"/>
 
-<h3 align="center">🌱 Data Science Enthusiast and Developer, budding at IIT Madras</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=60&duration=2000&pause=1000&color=D5F7C7&repeat=false&width=1135&height=100&lines=Welcome+to+my+profile" alt="Typing SVG" />
+
+<img src="banner1.gif" > 
 
 <p align="left">
   <img src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" width="400" alt="coding">
