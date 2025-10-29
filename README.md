@@ -4,6 +4,8 @@
 
 ![Image](https://github.com/user-attachments/assets/b79b629d-6c8f-418f-b890-5664475ec8e0)
 
+
+
 <table>
 <tr>
 <td width="70%" valign="top">
@@ -41,6 +43,10 @@ class DataScientist:
   </tr>
 </table>
 
+---
+<p align=center>
+  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,fastapi,react,vue,git,vscode,mysql,postgresql,jupyter" alt="Skills" />
+</p>
 
 # Featured Projects
 
