@@ -20,16 +20,16 @@
 
 <!-- GitHub Stats -->
 <div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dracula" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=1mystic&show_icons=true&theme=dracula" height="150" />
   &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&theme=dracula&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1mystic&theme=dracula&layout=compact" height="150" />
 </div>
 
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=shadow-purple&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=1mystic&theme=shadow-purple&hide_border=true" />
 
 <!-- Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&bg_color=0d1117&color=fb8c00&line=ebbe0b&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=1mystic&bg_color=0d1117&color=fb8c00&line=ebbe0b&point=ffffff&area=true&hide_border=true" />
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://x.com/yourhandle"><img width="120" src="https://img.shields.io/badge/-Twitter?style=for-the-badge&logo=x&logoColor=fff&label=Twitter&labelColor=000&color=000" /></a>
