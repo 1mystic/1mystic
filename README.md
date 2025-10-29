@@ -12,7 +12,6 @@
 <a href="https://x.com/@1mystic4u"><img width="120" src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=x&logoColor=fff" /></a>
 <a href="https://discord.com/users/1mystic"><img width="120" src="https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=fff" /></a>
 <a href="https://www.linkedin.com/in/atharvkhare"><img width="120" src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
-<a href="mailto:atharvkhare18@gmail.com"><img width="104" src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
 ```python
 class DataScientist:
     def __init__(self):
