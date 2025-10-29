@@ -3,47 +3,93 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=60&duration=2000&pause=1000&color=D5F7C7&repeat=false&width=1135&height=100&lines=Welcome+to+my+profile" alt="Typing SVG" />
 
 ![Image](https://github.com/user-attachments/assets/b79b629d-6c8f-418f-b890-5664475ec8e0)
-![Image](https://github.com/user-attachments/assets/09db062b-6a81-4454-9065-c79c06c36d07)
 
-<p align="left">
-  <img src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" width="400" alt="coding">
-</p>
+<table>
+<tr>
+<td width="70%" valign="top">
 
-- 🌱 Currently learning: **Machine Learning, React Native, Rust, Arch Linux CLI**
-- 💬 Ask me about: **AI/ML, Data Analysis, Cybersecurity**
-- 📫 Reach me: **asj.reach@gmail.com**
-- ⚡ Fun fact: **2+2 is 4 -1 that's 3, Quick Mafs!**
+<a href="https://atharvk.me"><img width="120" src="https://img.shields.io/badge/-Portfolio-fff?style=for-the-badge&logo=firefox&logoColor=000" /></a> <span> </span>
+<a href="https://x.com/@1mystic4u"><img width="120" src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=x&logoColor=fff" /></a>
+<a href="https://discord.com/users/1mystic"><img width="120" src="https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=fff" /></a>
+<a href="https://www.linkedin.com/in/atharvkhare"><img width="120" src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
+<a href="mailto:atharvkhare18@gmail.com"><img width="104" src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=gmail&logoColor=fff" /></a>
+```python
+class DataScientist:
+    def __init__(self):
+        self.name = "Atharv Khare"
+        self.role = "Data Science Student"
+        self.focus = ["ML", "Deep Learning", "Data Engineering"]
+        self.location = "Bhopal, MP"
+```
 
-<h3 align="left">My Tech Stack</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,fastapi,react,vue,git,vscode,mysql,postgresql,jupyter" alt="Skills" />
-</p>
+</td>
+<td width="30%" valign="center" align="right">
 
+<img src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" width="400" alt="coding">
 
-<table style="width:100%; border: none;">
+</td>
+</tr>
+</table>
+
+<table>
   <tr>
-    <td style="width:70%; vertical-align: top; padding: 10px; border: none;">
-      <h3>Code with Conscience</h3>
-      <p>
-        Technology is a tool. Its value is defined by the purpose behind it.
-      </p>
-      <ul>
-        <li><strong>Purpose-Driven Development:</strong> Every line of code should aim to solve a meaningful problem.</li>
-        <li><strong>Moral Responsibility:</strong> Considering the societal and environmental impact.</li>
-        <li><strong>Continuous Reflection:</strong> Regularly questioning the "why" behind my work.</li>
-      </ul>
-      <p>
-        "The future is not something we enter. The future is something we create." — Leonard Sweet
-      </p>
+    <td width="30%" valign="center">
+      <img src="https://github.com/user-attachments/assets/0f5cec7a-c20c-4a6a-91c9-b2d8ca537aeb" alt="Image" />
     </td>
-    <td style="width:30%; vertical-align: top; padding: 10px; border: none;">
-      <h3>Also Love...</h3>
-      <img src="YOUR_IMAGE_URL_HERE.jpg" alt="Anime Character or Related Art" width="100%" style="border-radius: 10px; max-width: 200px;"> <!-- Adjust src and max-width -->
-      <p style="font-size: 0.9em; margin-top: 5px;">
-        Exploring themes of growth, perseverance, and the complexity of human nature.
-      </p>
+    <td width="70%" valign="center">
+      <img width="1005" height="215" alt="Image" src="https://github.com/user-attachments/assets/4fcb7af3-09d2-497c-b3ea-da92e5a038c5" />
     </td>
   </tr>
+</table>
+
+
+# Featured Projects
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### Cloud Classification API
+**Stack:** `ResNet50` `U-Net` `Flask`  
+```
+ML Pipeline    ████████████████████████████████████████████████
+API Response   ████████████████████████████████████████████░░░░
+```
+- Dual-model pipeline for classification & segmentation  
+- REST API for real-time inference  
+- 70% reduction in PoC timelines via MLOps framework  
+[→ Demo](https://colab.research.google.com/drive/1jH4dWTeDyHtxyuzL9X8FvEHOdNl6Zcys)
+
+</td>
+<td width="33%" valign="top">
+
+### Clearview Platform
+**Stack:** `TensorFlow` `React` `Leaflet`  
+```
+ML Accuracy    ███████████████████████████████████████████░░░░░
+Data Pipeline  ████████████████████████████████████████████████
+```
+- ML-verified pollution reporting with 87% accuracy  
+- Geospatial mapping + biodiversity tracking  
+- Real-time submissions & visualization dashboards  
+[→ GitHub](https://github.com/1mystic/clearview)
+
+</td>
+<td width="33%" valign="top">
+
+### Wixplorer Quiz App
+**Stack:** `Flask` `Vue.js` `Redis` `Celery`  
+```
+Performance    ████████████████████████████████████████░░░░░░░░
+Scalability    ████████████████████████████████████████████████
+```
+- 40% performance boost via Redis caching  
+- JWT authentication + task queue optimization  
+- Mobile-first responsive architecture  
+[→ GitHub](https://github.com/1mystic/wixplore)
+
+</td>
+</tr>
 </table>
 
 <!-- GitHub Stats -->
@@ -59,12 +105,12 @@
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=1mystic&bg_color=0d1117&color=fb8c00&line=ebbe0b&point=ffffff&area=true&hide_border=true" />
 
-<h3 align="left">Connect with me:</h3>
-<a href="https://x.com/yourhandle"><img width="120" src="https://img.shields.io/badge/-Twitter?style=for-the-badge&logo=x&logoColor=fff&label=Twitter&labelColor=000&color=000" /></a>
-<a href="https://discord.com/users/yourid"><img width="120" src="https://img.shields.io/badge/-Discord?style=for-the-badge&logo=discord&logoColor=fff&label=Discord&labelColor=000&color=000" /></a>
-<a href="https://www.linkedin.com/in/yourprofile"><img width="120" src="https://img.shields.io/badge/-LinkedIn?style=for-the-badge&logo=linkedin&logoColor=fff&label=LinkedIn&labelColor=000&color=000" /></a>
-<a href="mailto:youremail@gmail.com"><img width="104" src="https://img.shields.io/badge/-gmail?style=for-the-badge&logo=gmail&logoColor=fff&label=Email&labelColor=000&color=000" /></a>
-
 <img src="https://t.bkit.co/w_66bb7ae98af2f.gif" width="300" alt="fun gif" />
 
-> “Aspiring to solve real world problems and become a Technically Sound Engineer ✨”
+**Contact:** [atharvkhare18@gmail.com](mailto:atharvkhare18@gmail.com) | **Portfolio:** [www.atharvk.me](http://www.atharvk.me)
+
+---
+
+*"Find a reason that wakes u tomorrow"*
+
+</div>
