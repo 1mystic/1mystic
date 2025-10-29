@@ -3,6 +3,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=60&duration=2000&pause=1000&color=D5F7C7&repeat=false&width=1135&height=100&lines=Welcome+to+my+profile" alt="Typing SVG" />
 
 ![Image](https://github.com/user-attachments/assets/b79b629d-6c8f-418f-b890-5664475ec8e0)
+![Image](https://github.com/user-attachments/assets/09db062b-6a81-4454-9065-c79c06c36d07)
+
 <p align="left">
   <img src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" width="400" alt="coding">
 </p>
@@ -16,6 +18,33 @@
 <p>
   <img src="https://skillicons.dev/icons?i=python,java,js,html,css,flask,fastapi,react,vue,git,vscode,mysql,postgresql,jupyter" alt="Skills" />
 </p>
+
+
+<table style="width:100%; border: none;">
+  <tr>
+    <td style="width:70%; vertical-align: top; padding: 10px; border: none;">
+      <h3>Code with Conscience</h3>
+      <p>
+        Technology is a tool. Its value is defined by the purpose behind it.
+      </p>
+      <ul>
+        <li><strong>Purpose-Driven Development:</strong> Every line of code should aim to solve a meaningful problem.</li>
+        <li><strong>Moral Responsibility:</strong> Considering the societal and environmental impact.</li>
+        <li><strong>Continuous Reflection:</strong> Regularly questioning the "why" behind my work.</li>
+      </ul>
+      <p>
+        "The future is not something we enter. The future is something we create." — Leonard Sweet
+      </p>
+    </td>
+    <td style="width:30%; vertical-align: top; padding: 10px; border: none;">
+      <h3>Also Love...</h3>
+      <img src="YOUR_IMAGE_URL_HERE.jpg" alt="Anime Character or Related Art" width="100%" style="border-radius: 10px; max-width: 200px;"> <!-- Adjust src and max-width -->
+      <p style="font-size: 0.9em; margin-top: 5px;">
+        Exploring themes of growth, perseverance, and the complexity of human nature.
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- GitHub Stats -->
 <div style="display: flex; align-items: center;">
