@@ -119,3 +119,5 @@ Scalability    █████████████████████�
 *"Find a reason that wakes u tomorrow"*
 
 </div>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=1mystic&label=Profile%20views&color=0e75b6&style=flat" alt="prifle-views" /> </p>
+
