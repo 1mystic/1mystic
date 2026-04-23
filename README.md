@@ -99,13 +99,16 @@ Scalability    █████████████████████�
 
 <!-- GitHub Stats -->
 <div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=1mystic&show_icons=true&theme=dracula" height="150" />
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1mystic&theme=dracula&layout=compact" height="150" />
-</div>
 
+![1mystic's Stats](https://github-readme-stats.vercel.app/api?username=1mystic&theme=nord&show_icons=true&hide_border=true&count_private=true)
+
+![1mystic's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1mystic&theme=nord&show_icons=true&hide_border=true&layout=compact)
+</div>
 <!-- Streak Stats -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=1mystic&theme=shadow-purple&hide_border=true" />
+
+![1mystic's Streak](https://github-readme-streak-stats.herokuapp.com/?user=1mystic&theme=nord&hide_border=true)
+
+
 
 <!-- Activity Graph -->
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=1mystic&bg_color=0d1117&color=fb8c00&line=ebbe0b&point=ffffff&area=true&hide_border=true" />
