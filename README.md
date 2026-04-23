@@ -1,6 +1,8 @@
 <!-- Animated Header -->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=60&duration=2000&pause=1000&color=D5F7C7&repeat=false&width=1135&height=100&lines=Welcome+to+my+profile%2C+over+chasing+metrics+that+impress" alt="Typing SVG" />
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=800&size=60&duration=2000&pause=1000&color=D5F7C7&repeat=false&width=1135&height=100&lines=Welcome+to+my+profile." />
+</a>
 
 
 
@@ -8,7 +10,7 @@
 ![Image](https://github.com/user-attachments/assets/b79b629d-6c8f-418f-b890-5664475ec8e0)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=90&section=header&text=Prefer%20Building%20systems%20that%20matter,%20over%20chasing%20metrics%20that%20impress.&fontColor=ffffff&fontSize=20&fontAlign=50&fontAlignY=50" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=90&section=header&text=%22Prefer%20Building%20systems%20that%20matter,%20over%20chasing%20metrics%20that%20impress.%22&fontColor=ffffff&fontSize=20&fontAlign=50&fontAlignY=50" />
 </p>
 
 <table>
@@ -193,8 +195,10 @@ Feature Eng     █████████████████████�
 
 ---
 
-<h3 align="center">Find a reason that wakes you tomorrow! | <a href="https://atharvk.me">atharvk.me</a></h3>
+<h3 align="center"> ~ Find a reason that wakes you tomorrow | <a href="https://atharvk.me">atharvk.me</a> | 
+   <a href="mailto:atharvkhare18@gmail.com">atharvkhare18@gmail.com</a>
+  </h3> 
 
 <p align="center">
-  <strong>Contact:</strong> <a href="mailto:atharvkhare18@gmail.com">atharvkhare18@gmail.com</a>
+ <img src="https://komarev.com/ghpvc/?username=1mystic&style=for-the-badge&color=000000" />
 </p>
