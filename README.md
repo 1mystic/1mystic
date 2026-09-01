@@ -17,12 +17,12 @@
 <tr>
 <td width="70%" valign="top">
 
-<a href="https://atharvk.me"><img width="120" src="https://img.shields.io/badge/-Portfolio-fff?style=for-the-badge&logo=firefox&logoColor=000" /></a> <span> </span>
+<a href="https://atharvk.pages.dev"><img width="120" src="https://img.shields.io/badge/-Portfolio-fff?style=for-the-badge&logo=firefox&logoColor=000" /></a> <span> </span>
 <a href="https://x.com/@1mystic4u"><img width="120" src="https://img.shields.io/badge/-Twitter-000?style=for-the-badge&logo=x&logoColor=fff" /></a>
 <a href="https://discord.com/users/1mystic"><img width="120" src="https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=fff" /></a>
 <a href="https://www.linkedin.com/in/atharvkhare"><img width="120" src="https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=fff" /></a>
 
-<a href="https://atharvk.me">
+<a href="https://atharvk.pages.dev">
   <img width="120" src="https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=firefox&logoColor=fff" />
 </a>
   
@@ -31,7 +31,7 @@ class DataScientist:
     def __init__(self):
         self.name = "Atharv Khare"
         self.role = "Data Science Student"
-        self.focus = ["ML", "Deep Learning", "Data Engineering"]
+        self.focus = ["Machine Learning ", "Business Analytics", "Data Engineering"]
         self.location = "Bhopal, MP"
 ```
 
@@ -62,101 +62,12 @@ class DataScientist:
   <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,vue,flask,fastapi,postgresql,mysql,redis,git,docker,gcp,vscode,linux" />
 </p>
 
-**ML / AI:** `scikit-learn` `TensorFlow` `PyTorch` `XGBoost` `LightGBM` `HuggingFace` `LangChain`  
+**ML / AI:** `scikit-learn` `TensorFlow` `PyTorch` `XGBoost` `LightGBM` `HuggingFace` `LangChain` `Langraph`
+
 **Data:** `Pandas` `NumPy` `Spark` `SQL` `SARIMAX` `Bayesian Models`  
 **Infra:** `FastAPI` `Celery` `RabbitMQ` `Redis` `GCP` `Docker`  
-**LLM:** `Claude API` `RAG Pipelines` `Prompt Engineering`
+**LLM:** `Claude API` `RAG Pipelines` `Prompt Engineering` `Agentic AI` `Multi Agent Orchestraton`
 
----
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### TypeState — Cognitive Load Detector
-**Stack:** `Bi-LSTM` `Keystroke Dynamics` `Python`
-```
-Model Accuracy  ███████████████████████████████████████░░░
-Signal Quality  ████████████████████████████████████████████
-```
-- Detects cognitive load from keystroke patterns using Bi-LSTM
-- Novel behavioral biometrics approach
-- Targeting arXiv submission (TypeState 2.0 roadmap)
-
-</td>
-<td width="50%" valign="top">
-
-### Axiom Canvas — LLM Math Visualizer
-**Stack:** `Claude API` `RAG` `React` `FastAPI`
-```
-LLM Accuracy    ████████████████████████████████████████████
-RAG Retrieval   ███████████████████████████████████████░░░░
-```
-- LLM-powered mathematical concept visualization
-- RAG pipeline for contextual theorem retrieval
-- Claude API for natural language → visual math
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### WebOps — Redis-Backed API Platform
-**Stack:** `FastAPI` `Redis` `Celery` `RabbitMQ` `GCP`
-```
-Cache Hit Rate  ████████████████████████████████████████████
-Task Throughput ████████████████████████████████████░░░░░░░░
-```
-- Redis caching on GCP for high-throughput APIs
-- Celery + RabbitMQ async task queues
-- [→ GitHub](https://github.com/1mystic/wixplore)
-
-</td>
-<td width="50%" valign="top">
-
-### Melan FF — Live Demand Forecasting
-**Stack:** `SARIMAX` `Bayesian Models` `Python`
-```
-Forecast MAPE   ███████████████████████████████████████████░
-Inventory Opt   ████████████████████████████████████████████
-```
-- Live demand forecasting deployed at a QSR chain
-- SARIMAX + Bayesian inventory optimization
-- Real-world production ML system
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### Clearview — Pollution ML Platform
-**Stack:** `TensorFlow` `React` `Leaflet`
-```
-ML Accuracy     ███████████████████████████████████████████░
-Data Pipeline   ████████████████████████████████████████████
-```
-- 87% accuracy ML-verified pollution reporting
-- Geospatial mapping + biodiversity tracking
-- [→ GitHub](https://github.com/1mystic/clearview)
-
-</td>
-<td width="50%" valign="top">
-
-### Kaggle — Comment Classification
-**Stack:** `XGBoost` `LightGBM` `sklearn`
-```
-Leaderboard     ████████████████████████████████████████████
-Feature Eng     ███████████████████████████████████████████░
-```
-- Achieved top 1% leaderboard position amongst 2500+ participants
-- Advanced ensemble + Obfuscation Handling
-- Used only Classical ML models to achieve 84% F1 score on severely imbalanced data
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -186,12 +97,15 @@ Feature Eng     █████████████████████�
 
 ##  Certifications & Achievements
 
+> - Best Capstone Project Award - Business Data Management, IIT Madras
+> - Athropic Claude CBC - Hackathon Winner
+> - Oracle Certified - Agentic AI Certified Foundations Associate
+> - Hackerrank - SQL Advanced Certificate
 > - Tech Dominion - Hackathon Winner, IIT Madras
 > - Anukriti Winner, Paradox, IIT Madras BS
 > - Datacamp AI engineer for Data Science Associate Ceritfication
 > - Published research paper
 > - Organized Margazhi'25 Technical Events  
-> - Machine Learning — Certificates from IITM
 
 ---
 
