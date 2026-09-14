@@ -13,6 +13,189 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=111111&height=90&section=header&text=%22Prefer%20Building%20systems%20that%20matter,%20over%20chasing%20metrics%20that%20impress.%22&fontColor=ffffff&fontSize=20&fontAlign=50&fontAlignY=50" />
 </p>
 
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="45%" valign="top">
+
+<a href="https://github.com/1mystic/CS-LLN">
+  <img src="https://github.com/1mystic/CS-LLN/blob/0df009aa628403d3fadc251b054c3ce7af57c51f/diagram.gif" width="100%" />
+</a>
+
+</td>
+
+<td width="55%" valign="middle">
+
+<h3>
+  <a href="https://1mystic.github.io/CS-LLN/">CS-LLN Inspector</a>
+</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-E7B93C?style=flat-square&logo=python&logoColor=111111" />
+  <img src="https://img.shields.io/badge/Naive%20Bayes-E7B93C?style=flat-square" />
+  <img src="https://img.shields.io/badge/ML%20Research-E7B93C?style=flat-square" />
+</p>
+
+<p>
+  An interactive research companion for Context-Shift Interaction Screening,
+  exploring a sparse, closed-form approach to feature interactions that
+  conventional Naive Bayes would otherwise miss.
+</p>
+
+<p>
+  <a href="https://github.com/1mystic/CS-LLN">
+    <b>→ View Repository</b>
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td width="55%" valign="middle">
+
+<h3>
+  <a href="https://git-syntropy.vercel.app">GitSyntropy</a>
+</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-E7B93C?style=flat-square&logo=python&logoColor=111111" />
+  <img src="https://img.shields.io/badge/Multi--Agent%20AI-E7B93C?style=flat-square" />
+  <img src="https://img.shields.io/badge/GitHub%20Analytics-E7B93C?style=flat-square" />
+</p>
+
+<p>
+  A multi-agent system that predicts team compatibility and hiring fit
+  from GitHub behavior, psychometric profiling, and AI-generated analysis.
+</p>
+
+<p>
+  <a href="https://github.com/1mystic/GitSyntropy">
+    <b>→ View Repository</b>
+  </a>
+</p>
+
+</td>
+
+<td width="45%" valign="top">
+
+<a href="https://github.com/1mystic/GitSyntropy">
+  <img src="https://github.com/1mystic/GitSyntropy/blob/5d7d50fc396da60808031d8969004994b0783019/demos/demo.gif" width="100%" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td width="45%" valign="top">
+
+<a href="https://github.com/1mystic/Domino_ML">
+  <img src="https://github.com/1mystic/Domino_ML/blob/b9701f12296ba497007c134ec86a6aa6e32340e1/Snaps/land.png" width="100%" />
+</a>
+
+</td>
+
+<td width="55%" valign="middle">
+
+<h3>
+  <a href="https://domino-ml.onrender.com/">Domino ML</a>
+</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-E7B93C?style=flat-square&logo=python&logoColor=111111" />
+  <img src="https://img.shields.io/badge/Flask-E7B93C?style=flat-square&logo=flask&logoColor=111111" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-E7B93C?style=flat-square" />
+</p>
+
+<p>
+  A visual machine learning pipeline builder that lets users create
+  end-to-end ML workflows through drag-and-drop and automatically generate
+  production-ready Python code.
+</p>
+
+<p>
+  <a href="https://github.com/1mystic/Domino_ML">
+    <b>→ View Repository</b>
+  </a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<table>
+<tr>
+
+<td width="55%" valign="middle">
+
+<h3>
+  <a href="https://reflecta-j1wz.onrender.com/">Reflecta</a>
+</h3>
+
+<p>
+  <img src="https://img.shields.io/badge/Python-E7B93C?style=flat-square&logo=python&logoColor=111111" />
+  <img src="https://img.shields.io/badge/FastAPI-E7B93C?style=flat-square&logo=fastapi&logoColor=111111" />
+  <img src="https://img.shields.io/badge/PyTorch-E7B93C?style=flat-square&logo=pytorch&logoColor=111111" />
+  <img src="https://img.shields.io/badge/MLflow-E7B93C?style=flat-square&logo=mlflow&logoColor=111111" />
+</p>
+
+<p>
+  Adaptive learning analytics platform that goes beyond quiz scores by
+  modeling mastery, confidence, understanding, and goal-readiness using
+  IRT, BKT, and SAKT.
+</p>
+
+<p>
+  <a href="https://github.com/1mystic/reflecta">
+    <b>→ View Repository</b>
+  </a>
+  
+  
+</p>
+
+</td>
+
+<td width="45%" valign="top">
+
+<a href="https://github.com/1mystic/reflecta">
+  <img src="https://github.com/1mystic/reflecta/blob/026acfc11aaafc6786436ff7b576203419f9f6ba/reflecta-snips/Screenshot%202026-07-15%20120616.png" width="100%" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## Tech Stack & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,vue,flask,fastapi,postgresql,mysql,redis,git,docker,gcp,vscode,linux" />
+</p>
+
+**ML / AI:** `scikit-learn` `TensorFlow` `PyTorch` `XGBoost` `LightGBM` `HuggingFace` `LangChain` `Langraph`
+
+**Data:** `Pandas` `NumPy` `Spark` `SQL` `SARIMAX` `Bayesian Models`  
+**Infra:** `FastAPI` `Celery` `RabbitMQ` `Redis` `GCP` `Docker`  
+**LLM:** `Claude API` `RAG Pipelines` `Prompt Engineering` `Agentic AI` `Multi Agent Orchestraton`
+
+
+---
+
+
 <table>
 <tr>
 <td width="70%" valign="top">
@@ -56,20 +239,7 @@ class DataScientist:
 </table>
 
 ---
-## Tech Stack & Tools
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,react,vue,flask,fastapi,postgresql,mysql,redis,git,docker,gcp,vscode,linux" />
-</p>
-
-**ML / AI:** `scikit-learn` `TensorFlow` `PyTorch` `XGBoost` `LightGBM` `HuggingFace` `LangChain` `Langraph`
-
-**Data:** `Pandas` `NumPy` `Spark` `SQL` `SARIMAX` `Bayesian Models`  
-**Infra:** `FastAPI` `Celery` `RabbitMQ` `Redis` `GCP` `Docker`  
-**LLM:** `Claude API` `RAG Pipelines` `Prompt Engineering` `Agentic AI` `Multi Agent Orchestraton`
-
-
----
 
 ## GitHub Analytics
 
@@ -109,7 +279,7 @@ class DataScientist:
 
 ---
 
-<h3 align="center"> ~ Find a reason that wakes you tomorrow | <a href="https://atharvk.me">atharvk.me</a> | 
+<h3 align="center"> ~ Find a reason that wakes you tomorrow | <a href="https://atharvk.pages.dev">atharvk.pages.dev</a> | 
    <a href="mailto:atharvkhare18@gmail.com">atharvkhare18@gmail.com</a>
   </h3> 
 
